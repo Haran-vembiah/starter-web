@@ -1,1 +1,1 @@
-Sample file to ignore
+sample file to ignore
