@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 decsription for another purpose
 
 ## How to contribute
+
+###copyright
+2020 copyright
